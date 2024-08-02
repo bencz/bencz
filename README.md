@@ -1,6 +1,7 @@
 ### Hi there, I'm Alexandre Bencz 👋
 
 [![GitHub bencz](https://img.shields.io/github/followers/bencz?label=follow&style=social)](https://github.com/bencz)
+![](https://komarev.com/ghpvc/?username=bencz&color=green)
 
 <div align="center">
   
@@ -12,5 +13,3 @@
     <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=bencz&theme=material&radius=10" />
   </a>
 </div>
-
-![](https://komarev.com/ghpvc/?username=bencz&color=green)
